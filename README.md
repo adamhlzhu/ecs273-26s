@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project visualizes stock data using React + Vite. It includes:
+This project visualizes stock data using React + js. It includes:
 - A line chart of stock prices over time
 - A news list showing articles for each stock
 - A t-SNE scatter plot showing raw and latent embeddings
